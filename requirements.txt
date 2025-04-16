@@ -1,0 +1,4 @@
+Flask
+azure-storage-blob
+azure-cosmos
+gunicorn  # if using for deployment (optional for local development)
